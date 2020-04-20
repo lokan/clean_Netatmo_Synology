@@ -14,6 +14,9 @@ This whole thing is based on the fact that you have Netatmo Security Cameras rec
 The files are on a dedicated Shared Folder named "Security", where you will copy the scripts.
 You will need to change the template based on your shared folder and cameras names.
 
+clean_security.sh is here to keep only 10 months of history
+clean_security_yearly.sh deletes the folders of previous years
+
 ## Task scheduler
 
 Once the scripts are on your NAS, it would be smart to use Task Scheduler to plan their execution.
