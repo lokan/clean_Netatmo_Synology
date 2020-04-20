@@ -5,7 +5,7 @@ Scripts to automatically remove old Netatmo Security folders and files
 **⚠️ It is your responsability to verify my code before using it. ⚠️**<br />
 
 This idea was originally published on [lokan.jp](https://lokan.jp/2020/04/20/script-effacer-netatmo-nas-synology/).
-Thanks to [LinKuFF](https://www.inuage.com/) for the original idea and helping me on that.
+Thanks to [LinKuFF](https://www.inuage.com/) for the suggestion.
 
 ## Prerequisite
 
