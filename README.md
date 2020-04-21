@@ -2,14 +2,14 @@
 Scripts to automatically remove old Netatmo Security folders and files
 
 **⚠️ These scripts are based on my needs only. ⚠️**<br />
-**⚠️ It is your responsability to verify my code before using it. ⚠️**<br />
+**⚠️ It is your responsibility to verify my code before using it. ⚠️**<br />
 
 This idea was originally published on [lokan.jp](https://lokan.jp/2020/04/20/script-effacer-netatmo-nas-synology/).
 Thanks to [LinKuFF](https://www.inuage.com/) for the suggestion.
 
 ## Prerequisite
 
-This whole thing is based on the fact that you have Netatmo Security Cameras recording on your Synology NAS using FTP.
+This whole thing is based on the fact that you have Netatmo Security camera recording on your Synology NAS using FTP.
 
 The files are on a dedicated Shared Folder named "Security", where you will copy the scripts.
 You will need to change the template based on your shared folder and cameras names.
